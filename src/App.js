@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import UserSideBar from './UserSideBar';
+import UserSideBar from './UserSideBar.js';
 
 class App extends Component {
   render() {
